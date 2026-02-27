@@ -23,19 +23,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VM11-hash&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vartika-malik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ "Building today what the future will depend on." ✨
-</p>
