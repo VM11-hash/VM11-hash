@@ -1,13 +1,5 @@
 <h1 align="center">Hi, I'm Vartika Malik</h1>
-<h3 align="center">B.Tech Student | AI & Systems Enthusiast | Building Real-World Solutions</h3>
 
-<p>
-  2nd Year B.Tech Student at Indira Gandhi Delhi Technical University for Women (IGDTUW) <br>
-  Passionate about AI, Optimization & Impact-Driven Tech <br>
-  Turning ideas into scalable products
-</p>
-
----
 
 ## 🌸 About Me
 
